@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+          "id": 1,
+          "titulo": "React desde Cero",
+          "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+          "price": "$ 50USD",
+          "profesor": "Beto Quiroga"
+        },
+        {
+          "id": 2,
+          "titulo":"Git desde Cero" ,
+          "image":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/git_0.jpg?itok=SxlbiFDD",
+          "price": "$ 30USD",
+          "profesor": "Beto Quiroga"
+        },
+        {
+          "id": 3,
+          "titulo":"Firebase" ,
+          "image":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/firebase.jpg?itok=OugF6oD6",
+          "price": "$ 20USD",
+          "profesor": "Jonathan Mircha"
+        }
+      ]
+}
